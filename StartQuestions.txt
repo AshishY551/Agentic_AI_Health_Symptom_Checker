@@ -1,0 +1,26 @@
+Here are **4 powerful, realistic, and impactful quick-start questions** designed specifically to showcase your **Agentic AI Health & Wellness Assistant’s capabilities**. These aren't generic — they’re crafted to demonstrate the AI’s strength in handling **medical symptoms**, **fitness planning**, **preventive care**, and **health education**, while subtly educating users on what’s possible:
+
+---
+
+## 💡 4 Quick Start Questions to Display to the User
+
+1. **"I’ve been feeling tired all the time. What could be the reason?"**
+   ➤ *Triggers symptom analysis, condition matching (e.g., anemia, sleep issues, thyroid), and guidance on next steps.*
+
+2. **"Can you create a daily health routine for me to stay fit and energized?"**
+   ➤ *Starts personalized wellness planning: fitness, nutrition, hydration, sleep schedule.*
+
+3. **"What are early warning signs of diabetes and how can I prevent it?"**
+   ➤ *Triggers an educational + preventive care module based on authentic medical guidelines.*
+
+4. **"I have a cold, but I’m not sure if it’s flu or something else. What should I do?"**
+   ➤ *Activates symptom comparison (e.g., cold vs. flu vs. COVID), home remedies, and when to see a doctor.*
+
+---
+
+These questions:
+
+* Feel **natural and user-led**
+* Reflect **real health uncertainties**
+* Showcase your agent's **breadth** (symptoms, routines, education, prevention)
+* Use **simple language** with **high impact**
