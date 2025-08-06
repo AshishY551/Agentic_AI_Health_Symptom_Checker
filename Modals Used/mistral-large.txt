@@ -1,0 +1,26 @@
+mistral-large
+
+Provider: Mistral AI | Version: 2.0 | Type: Provided model
+Question answering
+Summarization
+
+Retrieval-Augmented Generation(RAG)
+Classification
+Generation
+Code generation and conversion
+Extraction
+Translation
+Function calling
+----------------------------------------------------------------------
+Model Overview
+Mistral Large 2 is a cutting-edge Large Language Model (LLM) that excels in reasoning, knowledge, and coding domains.
+
+Multi-lingual by design. The model is designed to handle dozens of languages, including but not limited to English, French, German, Spanish, Italian, Chinese, Japanese, Korean, Portuguese, Dutch, and Polish.
+
+Coding Proficiency. Mistral Large 2 has been trained on over 80 coding languages, ranging from popular ones like Python, Java, C, C++, JavaScript, and Bash, to more specialized ones like Swift and Fortran.
+
+Agent-Oriented. It demonstrates superior agentic capabilities, with native function calling and JSON outputting features.
+
+Advanced Reasoning. The model has mathematical and reasoning abilities.
+
+For more comprehensive information, benchmarks, and examples about this model, please refer to the release blog.

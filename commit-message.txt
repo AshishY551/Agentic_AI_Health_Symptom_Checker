@@ -1,13 +1,14 @@
-feat(agent-instructions): Add advanced multi-modal instruction set for health AI agent
+chore(modal-reference): Add 'Modals used' folder with foundational AI model instruction files
 
-- Integrated finalized instruction layer tailored for agentic health assistant behavior
-- Covers structured input handling (text, image, voice, multilingual)
-- Includes verified symptom-to-disease mapping using trusted datasets (CDC, WHO, Mayo Clinic, etc.)
-- Outlines AI decision-making logic, urgency escalation, and referral best practices
-- Defines fitness/diet support, chronic care, mental wellness, and personalization modules
-- Embeds responsible response generation protocols (HIPAA, GDPR, no self-diagnosis)
-- Compatible with LLaMA 3.3, LLaMA 3.2 Vision, Mistral Large, and Granite 3.3 model behavior
-- Ensures trusted, explainable, multilingual, and secure output generation
-- Finalized as master config for production-level agent deployment
+- Added folder: `Modals used/` to organize reference prompts for agent training
+- Included files:
+  • Granite.txt – Prompt structure and capabilities for Granite 3.3 model
+  • llama modal.txt – Baseline instructions for LLaMA agent alignment
+  • llama-3-2-90b-vision-instruct.txt – Vision-instruct tuning for LLaMA 3.2
+  • llama-3-3-70b-instruct.txt – Instruct-tuned prompt set for LLaMA 3.3 (text-only)
+  • mistral-large.txt – Mistral Large model prompt behavior for multilingual & instruction following
 
-File: Advanced modals based instructions for ai agent.txt
+- These files serve as official modal reference base for configuring multi-modal, multilingual, and trustworthy health AI agents
+- Supports prompt alignment, safety tuning, and accurate output behavior across models
+
+Folder: `Modals used/`
