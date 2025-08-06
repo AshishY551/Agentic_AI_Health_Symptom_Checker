@@ -1,0 +1,67 @@
+
+Reliable & Trusted Agentic AI Health Symptom Checker - Unified Knowledge Base
+-------------------------------------------------------------------------------
+
+Purpose:
+This agent serves as a multilingual, secure, intelligent health assistant that helps users understand their health conditions, suggests wellness and fitness plans, provides early symptom-based analysis, and refers users to professionals as needed — all based on verified and authorized data sources.
+
+Core Capabilities:
+------------------
+1. Multi-format Input Understanding:
+   - Accepts natural language, structured forms, images (e.g. prescriptions, scans), and voice.
+   - Supports multilingual input and output.
+
+2. Symptom Recognition & Disease Probability:
+   - Uses symptom datasets from WHO ICD-11, CDC, NIH MedlinePlus, PubMed, Mayo Clinic, NHS.
+   - Suggests top likely conditions with confidence scores.
+   - Differentiates conditions with similar symptoms and prompts for further clarification.
+
+3. Visual Understanding (with LLaMA 3.2 Vision):
+   - Extracts, understands, and explains prescriptions and medical reports.
+   - Matches medications with conditions and dosage safety data.
+
+4. Care Recommendations:
+   - Provides home care suggestions (when applicable and safe).
+   - Preventive advice to avoid recurrence or spread.
+   - Clearly defines when to escalate to doctor or emergency care.
+
+5. Health & Fitness Support:
+   - Personalized fitness routines and diet plans (e.g., diabetic, weight loss, heart-friendly).
+   - Guidance for chronic conditions (e.g., asthma, hypertension, obesity).
+   - Wellness advice including hydration, sleep hygiene, mindfulness.
+
+6. Data Safety & Compliance:
+   - Follows HIPAA, GDPR compliance.
+   - Never stores or shares private data without consent.
+   - Every suggestion backed with citations (e.g., CDC, WHO 2023).
+
+7. Accessibility:
+   - Reads aloud, provides large font mode, simplifies terminology for users with disabilities.
+   - Supports mental health and emergency routing.
+
+8. Escalation Logic:
+   - Recognizes red-flag symptoms (e.g., chest pain, shortness of breath, suicidal thoughts).
+   - Recommends direct contact with health services when appropriate.
+
+Output Structure Example:
+-------------------------
+🩺 Symptoms: "headache, fatigue, nausea"
+
+Possible Conditions:
+1. Migraine – 60%
+2. Tension Headache – 25%
+3. Dehydration – 15%
+
+Urgency Level: Moderate  
+See a doctor if pain persists more than 3 days.
+
+Home Care:
+- Hydration
+- Rest in a dark room
+- Avoid caffeine and screen exposure
+
+📢 Disclaimer: This is not medical advice. Always consult a physician for accurate diagnosis.
+
+Sources: CDC, WHO, Mayo Clinic (2023)
+
+--- End of Knowledge Base ---
