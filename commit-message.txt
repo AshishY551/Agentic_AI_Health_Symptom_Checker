@@ -1,14 +1,28 @@
-chore(modal-reference): Add 'Modals used' folder with foundational AI model instruction files
+feat: Added 10 final output and project screenshots for Agentic AI Health Symptom Checker
 
-- Added folder: `Modals used/` to organize reference prompts for agent training
-- Included files:
-  • Granite.txt – Prompt structure and capabilities for Granite 3.3 model
-  • llama modal.txt – Baseline instructions for LLaMA agent alignment
-  • llama-3-2-90b-vision-instruct.txt – Vision-instruct tuning for LLaMA 3.2
-  • llama-3-3-70b-instruct.txt – Instruct-tuned prompt set for LLaMA 3.3 (text-only)
-  • mistral-large.txt – Mistral Large model prompt behavior for multilingual & instruction following
+- Included final conversation screenshots from IBM WatsonX agent lab showing:
+  • Accurate multi-condition differential diagnosis
+  • Symptom clarification and lifestyle inquiry
+  • Trusted citation-based output from vector knowledge base
+  • Use of escalation logic, HIPAA/GDPR compliance, and accessible responses
+- Added interface views highlighting:
+  • Selected AI model (granite-3-3-8b-instruct), LangGraph + ReAct architecture
+  • Sample start questions and natural language understanding in use
+  • Vector index (`Agentic_Health_AI_Knowledge_Base`) correctly integrated
+  • Google search + document vector tools in use
 
-- These files serve as official modal reference base for configuring multi-modal, multilingual, and trustworthy health AI agents
-- Supports prompt alignment, safety tuning, and accurate output behavior across models
+📁 Files Added (Images):
 
-Folder: `Modals used/`
+  - `8.project.jpg`
+  - `9.project.jpg`
+  - `10.Output.jpg`
+  - `11.Output.jpg`
+  - `12.Output.jpg`
+  - `13.project.jpg`
+  - `14.project.jpg`
+  - `16.Output.jpg`
+  - `17.Output.jpg`
+  - `18.Output.jpg`
+  - It includes - screenshots from preview session and output
+
+These visuals will support final documentation, reporting, and project portfolio.
