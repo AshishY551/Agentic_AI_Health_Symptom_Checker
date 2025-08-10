@@ -1,18 +1,5 @@
-feat: Add deployment & submission screenshots for Agentic AI Health Symptom Checker project
-
-- Added folder containing key deployment visuals:
-  - 20.Deployment space created.jpg
-  - 21.Deployement.jpg
-  - 22.Project Deployed.jpg
-  - 23.Deployement.jpg
-  - 24.Deployed.jpg
-  - code.jpg (IBM watsonx agent Java code snippet)
-- These screenshots document the full lifecycle of deployment:
-  - Creation of deployment space in IBM watsonx
-  - Real-time status of AI agent deployment and verification
-  - Agent activation and service confirmation
-  - API reference section with generated Java integration snippet
-- Purpose: Evidence of production-grade deployment setup for reliable and secure health assistant service
-- Context: Aligns with transparency, reproducibility, and technical validation for the Agentic AI Health Symptom Checker
-
-#Documentation #DeploymentProof #ProductionReady #Watsonx
+Added *.ipymb* file- Agentic AI Health symptom Checker Deployment notebook.ipynb
+Added .ipymb file -Agentic AI Health Symptom Checker Notebook 2.ipynb 
+- .ipymb file is an executable file.
+- Anyone can run .ipymb file In Watsonx.ai runtime environment and get the same outputs.
+- .ipymb file contains actual executable codes and resources saved.
