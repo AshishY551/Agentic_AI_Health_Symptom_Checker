@@ -1,5 +1,6 @@
-Added *.ipymb* file- Agentic AI Health symptom Checker Deployment notebook.ipynb
-Added .ipymb file -Agentic AI Health Symptom Checker Notebook 2.ipynb 
-- .ipymb file is an executable file.
-- Anyone can run .ipymb file In Watsonx.ai runtime environment and get the same outputs.
-- .ipymb file contains actual executable codes and resources saved.
+feat(assets): add new agent Assets,outputs and AI health checker images
+
+- Added Output2.1.Agent.jpg and Output2.2.Agent.jpg for updated agent output visuals
+- Added assets/Assets2.jpg for additional asset reference- It has all listed assets
+- Added assets/Agentic_AI_Health_Symptom_Checker-Assets.jpg  it contain list of Project assets
+- Organized new images into the appropriate `assets/` directory for future use in documentation and UI previews
