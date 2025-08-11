@@ -1,6 +1,6 @@
-feat(assets): add new agent Assets,outputs and AI health checker images
+feat(notebook, assets): add notebook resources and  new project image
 
-- Added Output2.1.Agent.jpg and Output2.2.Agent.jpg for updated agent output visuals
-- Added assets/Assets2.jpg for additional asset reference- It has all listed assets
-- Added assets/Agentic_AI_Health_Symptom_Checker-Assets.jpg  it contain list of Project assets
-- Organized new images into the appropriate `assets/` directory for future use in documentation and UI previews
+- Added assets/Projects.jpg for project reference visuals
+- Created `Notebook/` directory structure for future documentation and resources
+- Created `Notebook/Notebook Created/` subfolder for organized notebook assets
+- Added Notebook/Notebook Created/Notebook2.1.jpg as initial notebook visual
