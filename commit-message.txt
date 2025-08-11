@@ -1,6 +1,15 @@
-feat(notebook, assets): add notebook resources and  new project image
+feat(notebook): add executable code screenshot series
 
-- Added assets/Projects.jpg for project reference visuals
-- Created `Notebook/` directory structure for future documentation and resources
-- Created `Notebook/Notebook Created/` subfolder for organized notebook assets
-- Added Notebook/Notebook Created/Notebook2.1.jpg as initial notebook visual
+- Added the following images in `Notebook/Notebook Created/` folder:
+  • Notebook2.1.jpg
+  • Notebook2.2.jpg
+  • Notebook2.3.jpg
+  • Notebook2.4.jpg
+  • Notebook2.5.jpg
+  • Notebook2.6.jpg
+  • Notebook2.7.jpg
+  • Notebook2.8.jpg
+  • Notebook2.9.jpg
+  • Notebook2.10.jpg
+- Screenshots capture actual executable code from the notebook for reference and documentation
+- Completes the visual code walkthrough series for the notebook
