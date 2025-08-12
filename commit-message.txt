@@ -1,15 +1,5 @@
-feat(notebook): add executable code screenshot series
+Add setup image 'Advance Instruction2.2.Agent.jpg' for detailed agent instructions
 
-- Added the following images in `Notebook/Notebook Created/` folder:
-  • Notebook2.1.jpg
-  • Notebook2.2.jpg
-  • Notebook2.3.jpg
-  • Notebook2.4.jpg
-  • Notebook2.5.jpg
-  • Notebook2.6.jpg
-  • Notebook2.7.jpg
-  • Notebook2.8.jpg
-  • Notebook2.9.jpg
-  • Notebook2.10.jpg
-- Screenshots capture actual executable code from the notebook for reference and documentation
-- Completes the visual code walkthrough series for the notebook
+- Included a high-resolution image illustrating advanced setup instructions for Agent 2.2
+- Image added to the 'images' folder to enhance project documentation and onboarding
+- Supports better clarity for team members and future reference during setup
