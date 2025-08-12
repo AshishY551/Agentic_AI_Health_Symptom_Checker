@@ -1,5 +1,5 @@
-Add setup image 'Advance Instruction2.2.Agent.jpg' for detailed agent instructions
+Add deployment image 'Saving Agentic AI Healthcare agent2.1.Agent.jpg'
 
-- Included a high-resolution image illustrating advanced setup instructions for Agent 2.2
-- Image added to the 'images' folder to enhance project documentation and onboarding
-- Supports better clarity for team members and future reference during setup
+- Added image under 'Images/Deployment & Submission' folder
+- Visual documentation for deployment and submission process of Agentic AI Healthcare agent v2.1
+- Enhances project resources for deployment reference and team collaboration
