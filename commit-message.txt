@@ -1,5 +1,5 @@
-Add deployment image 'Saving Agentic AI Healthcare agent2.1.Agent.jpg'
+Add Agentic AI Healthcare Agent2 image (2.1.Agent.jpg)
 
-- Added image under 'Images/Deployment & Submission' folder
-- Visual documentation for deployment and submission process of Agentic AI Healthcare agent v2.1
-- Enhances project resources for deployment reference and team collaboration
+This commit adds the Agent2 reference image for the Agentic AI Healthcare
+project. It will be used in documentation and design discussions for version
+2.1, serving as a visual reference for the agent's concept and interface.
