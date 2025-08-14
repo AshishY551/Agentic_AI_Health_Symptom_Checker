@@ -1,5 +1,5 @@
-Add Agentic AI Healthcare deployment notebook image (2.1.Agent.jpg)
+feat(assets): add healthcare agent notebook image
 
-This commit adds the Deployment_Notebook_2 visual for the Agentic AI Healthcare
-project. The image serves as a reference for the deployment workflow in version
-2.1, aiding documentation, design reviews, and stakeholder presentations.
+- Added `Notebook_2/2.1.Agent.jpg` depicting the Agentic AI Healthcare agent
+- Image will be used as part of documentation and visual reference for the agent workflow
+- Supports upcoming healthcare AI project assets and demo materials
