@@ -1,5 +1,5 @@
-feat(assets): add healthcare agent notebook image
+feat(assets): add Notebook .ipynb screenshot image
 
-- Added `Notebook_2/2.1.Agent.jpg` depicting the Agentic AI Healthcare agent
-- Image will be used as part of documentation and visual reference for the agent workflow
-- Supports upcoming healthcare AI project assets and demo materials
+- Added `.ipynb` notebook screenshot (`.jpg`) for reference and documentation
+- Provides visual context for notebook structure and code cells
+- Supports project reports and demonstration materials
