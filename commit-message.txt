@@ -1,5 +1,7 @@
-feat(assets): add Notebook .ipynb screenshot image
+Add API architecture image (api.jpg)
 
-- Added `.ipynb` notebook screenshot (`.jpg`) for reference and documentation
-- Provides visual context for notebook structure and code cells
-- Supports project reports and demonstration materials
+- Provides a visual representation of the system’s API structure
+- Helps developers and stakeholders understand data flow
+- Serves as a quick reference in documentation and presentations
+- Useful for onboarding new team members to the API workflow
+- Supports alignment between frontend, backend, and integration teams
