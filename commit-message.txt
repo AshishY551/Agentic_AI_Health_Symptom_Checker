@@ -1,7 +1,9 @@
-Add API architecture image (api.jpg)
+Added Agentic AI Health symptom Checker Deployment notebook.ipynb
+Add Agentic AI Health Symptom Checker deployment notebook
 
-- Provides a visual representation of the system’s API structure
-- Helps developers and stakeholders understand data flow
-- Serves as a quick reference in documentation and presentations
-- Useful for onboarding new team members to the API workflow
-- Supports alignment between frontend, backend, and integration teams
+- Implements AI-driven symptom checker deployment workflow
+- Demonstrates end-to-end process from model loading to prediction
+- Includes integration with health data preprocessing pipeline
+- Provides code for model inference, evaluation, and result visualization
+- Serves as a reproducible reference for deployment in production environments
+- Located in Notebook/ for organized access and version tracking
