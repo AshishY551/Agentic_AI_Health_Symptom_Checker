@@ -1,9 +1,7 @@
-Added Agentic AI Health symptom Checker Deployment notebook.ipynb
-Add Agentic AI Health Symptom Checker deployment notebook
+feat(notebooks): add Agentic AI Health Symptom Checker Notebook 2
 
-- Implements AI-driven symptom checker deployment workflow
-- Demonstrates end-to-end process from model loading to prediction
-- Includes integration with health data preprocessing pipeline
-- Provides code for model inference, evaluation, and result visualization
-- Serves as a reproducible reference for deployment in production environments
-- Located in Notebook/ for organized access and version tracking
+- Introduced `Agentic AI Health Symptom Checker Notebook 2.ipynb` in the `notebooks/` directory
+- Extends previous symptom checker capabilities with improved agentic workflow
+- Includes exploratory data analysis (EDA), reasoning chain examples, and health symptom input/output flow
+- Prepared for future integration with structured APIs and user interaction modules
+- Adds detailed markdown documentation for reproducibility and clarity
