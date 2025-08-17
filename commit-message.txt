@@ -1,7 +1,1 @@
-feat(notebooks): add Agentic AI Health Symptom Checker Notebook 2
-
-- Introduced `Agentic AI Health Symptom Checker Notebook 2.ipynb` in the `notebooks/` directory
-- Extends previous symptom checker capabilities with improved agentic workflow
-- Includes exploratory data analysis (EDA), reasoning chain examples, and health symptom input/output flow
-- Prepared for future integration with structured APIs and user interaction modules
-- Adds detailed markdown documentation for reproducibility and clarity
+Some minore changes are done.
